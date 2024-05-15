@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="fade_out">fade out</string>
+    <string name="push_to_fade_out">push to fade out</string>
+    <string name="button_fade_in_name" />
+    <string name="fade_in" />
+    <string name="fadein">fade_in</string>
+    <string name="rotate" />
+    <string name="rotate2">rotate</string>
+</resources>
